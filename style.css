@@ -1,0 +1,44 @@
+h1{
+    color:rgba(255, 30, 0, 0.918);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-stretch: narrower;
+    opacity:1;
+}
+h2{
+    color:orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight:bolder;
+    opacity:1;
+}
+ol{
+    color:rgba(163, 0, 0, 0.658);
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:900;
+    opacity:1;
+}
+.line{
+    text-decoration: line-through;
+}
+.mark{
+    font: bold;
+    background-color: rgb(208, 255, 0);
+}
+ul{
+    letter-spacing: 5px;
+    font-size: medium;
+    font-weight: 700;
+    color:brown;
+}
+p{
+    color:chocolate;
+    opacity:1;
+}
+.li4{
+    text-decoration: underline;
+}
+.a{
+   background-color: rgb(208, 255, 0);
+}

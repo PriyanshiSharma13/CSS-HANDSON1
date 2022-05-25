@@ -13,23 +13,23 @@ h2{
     opacity:1;
 }
 ol{
-    color:rgba(163, 0, 0, 0.658);
-    font-size:large;
+    color:brown;
+    font-size: large;
     font-family: 'Times New Roman', Times, serif;
-    font-weight:900;
     opacity:1;
 }
 .line{
     text-decoration: line-through;
+    font-weight: bold;
 }
 .mark{
-    font: bold;
+    font-weight: bold;
     background-color: rgb(208, 255, 0);
 }
 ul{
     letter-spacing: 5px;
-    font-size: medium;
-    font-weight: 700;
+    line-height: 20px;
+    font-size: large;
     color:brown;
 }
 p{
@@ -37,8 +37,12 @@ p{
     opacity:1;
 }
 .li4{
+    font-style: oblique;
     text-decoration: underline;
 }
 .a{
-   background-color: rgb(208, 255, 0);
+    font-weight: bold;
+    font-size: medium;
+    font-style: oblique;
+    background-color: rgb(208, 255, 0);
 }
